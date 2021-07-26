@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![einchieved GitHub stats](https://github-readme-stats.vercel.app/api?username=einchieved&count_private=true&show_icons=true&theme=dark)
+![einchieved GitHub stats](https://github-readme-stats.vercel.app/api?username=einchieved&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einchieved&hide=hlsl,glsl,shaderlab&layout=compact&langs_count=5&theme=dark)
 
 Credits: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
